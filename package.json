@@ -1,0 +1,15 @@
+{
+  "name": "format-standard",
+  "main": "./lib/format-standard",
+  "version": "1.0.0",
+  "description": "Formats JavaScript files using standard style.",
+  "keywords": ["formatter", "standard"],
+  "repository": "https://github.com/eknkc/atom-format-standard",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "standard-format": "^1.6.8"
+  }
+}
