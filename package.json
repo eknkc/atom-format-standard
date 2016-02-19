@@ -13,6 +13,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "standard-format": "^1.6.8"
+    "standard-format": "^2.1.0"
   }
 }
